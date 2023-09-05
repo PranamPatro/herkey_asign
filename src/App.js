@@ -1,5 +1,5 @@
 import React from "react";
-import {logo} from './logoone.png'
+import {logo} from './assets/ogosmall'
 
 export default function App() {
   return (
