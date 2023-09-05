@@ -1,5 +1,5 @@
 import React from "react";
-import logo from  './../public/assets/logo.svg'
+import {logo} from './logoone.png'
 
 export default function App() {
   return (
